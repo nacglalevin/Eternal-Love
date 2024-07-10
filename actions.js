@@ -1,5 +1,4 @@
 // lifeTime 祯数
-// 送给董涵硕
 const color1 = {
   h: 279,
   s: '100%',
@@ -147,3 +146,4 @@ const Actions = [{
     ]
   },
 ]
+//致董涵硕
